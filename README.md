@@ -24,8 +24,8 @@ Development currently focuses on refining the standalone parks; the complete com
 | ![Smokies](screenshots/smokies.png) | ![Yosemite](screenshots/yosemite.png) |
 | **Yellowstone** | **Arches** |
 | ![Yellowstone](screenshots/yellowstone.png) | ![Arches](screenshots/arches.png) |
-| **Grand Teton** | |
-| ![Grand Teton](screenshots/grand-teton.png) | |
+| **Grand Teton** | **Olympic** |
+| ![Grand Teton](screenshots/grand-teton.png) | ![Olympic](screenshots/olympic.png) |
 
 ## Credits and sources
 
