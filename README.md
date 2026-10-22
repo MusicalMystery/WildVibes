@@ -4,6 +4,16 @@ A vibe-coded Minecraft terrain generation mod inspired by the national parks of 
 
 Wild Vibes brings park-inspired landscapes, biomes, and vegetation into procedurally generated Minecraft worlds. Its terrain draws inspiration from real geology and ecosystems, with some park generators incorporating USGS elevation samples. These are stylized worlds, not exact geographic recreations.
 
+## Gallery
+
+| Smokies | Yosemite |
+| :---: | :---: |
+| ![Smokies](screenshots/smokies.png) | ![Yosemite](screenshots/yosemite.png) |
+
+| Yellowstone | Arches |
+| :---: | :---: |
+| ![Yellowstone](screenshots/yellowstone.png) | ![Arches](screenshots/arches.png) |
+
 ## Credits and sources
 
 USGS elevation data informs terrain generation and is bundled for supported parks. National Park Service materials and other published references inform landscape, geology, and vegetation details.
@@ -14,6 +24,6 @@ Detailed references and data acknowledgments belong in `SOURCES.md`, with contri
 
 ## License
 
-Wild Vibes is licensed under the MIT License. See `LICENSE` for the full terms and copyright notices.
+Wild Vibes is licensed under the GPLv3 License. See `LICENSE` for the full terms and copyright notices.
 
 This is an independent project and is not affiliated with or endorsed by Mojang, Microsoft, the National Park Service, or the USGS.
