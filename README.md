@@ -26,6 +26,8 @@ Development currently focuses on refining the standalone parks; the complete com
 | ![Yellowstone](screenshots/yellowstone.png) | ![Arches](screenshots/arches.png) |
 | **Grand Teton** | **Olympic** |
 | ![Grand Teton](screenshots/grand-teton.png) | ![Olympic](screenshots/olympic.png) |
+| **Bryce Canyon** | |
+| ![Bryce Canyon](screenshots/bryce-canyon.png) | |
 
 ## Credits and sources
 
